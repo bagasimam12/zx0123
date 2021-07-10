@@ -1,7 +1,6 @@
 - Hi, I’m @zx0123
 - I’m interested in web-developer
 - I’m currently learning css and javascript
-- I’m looking to collaborate on school
 - I'm a newbie
 
 <!---
