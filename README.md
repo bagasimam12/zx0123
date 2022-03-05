@@ -1,7 +1,5 @@
-- Hi, Saya Bagas Imam Wicaksono
-- I’m interested in web-developer
-- I’m currently learning css and javascript
-- I'm Students
+- Hi, saya Bagas Imam Wicaksono
+- Saya Seorang Pelajar
 
 <!---
 zx0123/zx0123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
